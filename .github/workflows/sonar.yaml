@@ -1,3 +1,4 @@
+
 name: CI workflow for Maven Build and Sonar Code scan
 on:
   push:
